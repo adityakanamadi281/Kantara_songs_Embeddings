@@ -6,13 +6,15 @@ from moviepy.editor import VideoFileClip
 input_paths = [r"C:\Users\adity\Kantara_songs_Embeddings\Video_Songs\Bramhakalasha_part2.webm",
                r"C:\Users\adity\Kantara_songs_Embeddings\Video_Songs\Bramhakalasha.webm",
                r"C:\Users\adity\Kantara_songs_Embeddings\Video_Songs\karma.webm",
-               r"C:\Users\adity\Kantara_songs_Embeddings\Video_Songs\Varaha_Roopam.webm"]
+               r"C:\Users\adity\Kantara_songs_Embeddings\Video_Songs\Varaha_Roopam.webm",
+               r"C:\Users\adity\Kantara_songs_Embeddings\Video_Songs\rebel.webm"]
 
 
 output_paths = [r"C:\Users\adity\Kantara_songs_Embeddings\Audio\Bramhakalasha_part2.wav",
                 r"C:\Users\adity\Kantara_songs_Embeddings\Audio\Bramhakalasha.wav",
                 r"C:\Users\adity\Kantara_songs_Embeddings\Audio\karma.wav",
-                r"C:\Users\adity\Kantara_songs_Embeddings\Audio\Varaha_Roopam.wav"]
+                r"C:\Users\adity\Kantara_songs_Embeddings\Audio\Varaha_Roopam.wav",
+                r"C:\Users\adity\Kantara_songs_Embeddings\Audio\rebel.wav"]
 
 
 
