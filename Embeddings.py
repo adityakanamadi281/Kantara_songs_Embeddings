@@ -40,4 +40,8 @@ for file in audio_files:
 final_embeddings = torch.stack(embeddings)
 print("Final embeddings shape:", final_embeddings.shape)
 
+# Save the Embeddings
+torch.save(final_embeddings, r"C:\Users\adity\Kantara_songs_Embeddings\kantara_songs_Embeddings.pt")
+
+
 
